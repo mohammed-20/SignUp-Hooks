@@ -1,0 +1,47 @@
+.stylePage {
+  display: flex;
+}
+.title {
+  margin-top: 40px;
+  margin-left: 70px;
+}
+.inp {
+  margin-top: 35px;
+}
+.under-text-input {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 70px;
+  margin-top: 18px;
+  width: 438px;
+}
+
+.footer {
+  display: flex;
+  margin-left: 65px;
+  justify-content: space-between;
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+.footer a {
+  text-decoration: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  color: #3751fe;
+}
+.right-side {
+  width: 722px;
+  
+  left: 718px;
+  top: 0px;
+
+  background: rgba(229, 229, 229, 0.41);
+}
+.img {
+  width: 639px;
+  height: 328px;
+  margin-top: 64px;
+}

@@ -1,0 +1,39 @@
+.input {
+  border: none;
+  padding: 8px;
+  padding-left: 25px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  outline: none;
+}
+.input-group {
+  width: 435px;
+  height: 72px;
+  margin-left: 70px;
+  background: #ffffff;
+  border: 1px solid #c1bbbb;
+  display: flex;
+  flex-direction: column;
+}
+.input-group:hover{
+  border-left: 3px solid #0C31F1;
+
+  
+}
+
+.label-txt {
+  width: 145px;
+  height: 21px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.61);
+  margin-left: 20px;
+  margin-top: 12px;
+  cursor: pointer;
+}
