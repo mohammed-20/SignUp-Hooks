@@ -16,12 +16,14 @@
   background: #ffffff;
   border: 1px solid #c1bbbb;
   display: flex;
-  flex-direction: column;
 }
-.input-group:hover{
-  border-left: 3px solid #0C31F1;
-
-  
+.input-group:hover {
+  border-left: 3px solid #0c31f1;
+}
+.inp-leb {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
 }
 
 .label-txt {
@@ -36,4 +38,18 @@
   margin-left: 20px;
   margin-top: 12px;
   cursor: pointer;
+}
+.error {
+  color: red;
+  float: right;
+  margin: auto;
+  padding-left: 15px;
+  font-size: 18px;
+}
+
+.error1 {
+  border: 1px solid red;
+}
+.error2 {
+  color: red;
 }

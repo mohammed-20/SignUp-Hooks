@@ -20,15 +20,14 @@
   color: rgba(0, 0, 0, 0.6);
   margin-left: 70px;
   margin-top: 22px;
-
 }
 .para {
-width: 145px;
-height: 21px;
-font-family: "Roboto";
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 21px;
-color: rgba(0, 0, 0, 0.61)
+  width: 145px;
+  height: 21px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.61);
 }

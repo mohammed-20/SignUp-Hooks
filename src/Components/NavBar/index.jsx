@@ -8,7 +8,7 @@ export default function NavBar() {
       <Link to="/" className="list">
         Home
       </Link>
-      <Link to="/SignIn" className="list">
+      <Link to="/signIn" className="list">
         Sign In
       </Link>
       <Link to="/SignUp" className="list">
